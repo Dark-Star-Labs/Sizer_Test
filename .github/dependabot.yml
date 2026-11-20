@@ -5,5 +5,5 @@ updates:
     schedule:
       interval: "weekly"
     assignees:
-      - "darkstarlabs-lukegeach"
+      - "darkstarlabs-engage"
     open-pull-requests-limit: 0
